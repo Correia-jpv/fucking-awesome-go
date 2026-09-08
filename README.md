@@ -2495,6 +2495,7 @@ _Libraries that are used to help make your application more secure._
 - [luks.go](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
 - [mcprobe](https://github.com/tamish560/mcprobe) - Security scanner for MCP servers with prompt injection detection, tool shadowing, and SARIF output.
 - [memguard](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
+- [mist](https://github.com/iSerganov/mist) - Asymmetric-key audio steganography library that hides encrypted messages inside compressed audio using X25519 and ChaCha20-Poly1305.
 - [multikey](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
 - [nacl](https://github.com/kevinburke/nacl) - Go implementation of the NaCL set of API's.
 - [optimus-go](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm.
